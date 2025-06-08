@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Discord.js and Vuetify**
 
-- 📫 How to reach me? **Email hello@infatom.site**
+- 📫 How to reach me? **Email hello@vcttools.net**
 
 - ⚡ Fun fact: **I commonly forget semicolons**
 
